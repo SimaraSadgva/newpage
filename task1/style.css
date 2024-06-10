@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: aliceblue;
+}
+#boss {
+  margin: auto 480px;
+}
+#container {
+  display: inline-block;
+  width: 31%;
+  height: 695px;
+  margin: 250px 15px;
+  border: 3px;
+  border-radius: 6px;
+  box-shadow: -1px 7px 8px 6px rgb(117, 200, 238);
+  background-color: white;
+  overflow: hidden;
+}
+img {
+  width: 100%;
+}
+h3 {
+  font: 1.1em Arial, sans-serif;
+  color: white;
+  border: 0;
+  border-radius: 15px;
+  background-color: rgb(123, 174, 250);
+  margin: 30px 350px 0 30px;
+  padding: 10px 10px 10px 20px;
+}
+h2 {
+  font: bold 1.5em Arial, sans-serif;
+  word-spacing: 5px;
+  padding: 15px 0 10px 40px;
+}
+p {
+  font: 1.2em/1.5 Arial, sans-serif;
+  color: rgb(121, 118, 118);
+  padding-left: 22px;
+}
+table {
+  margin: 25px 3px 0 35px;
+}
+#charles {
+  font: Arial, sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 8px 0 0 20px;
+}
+#pict {
+  width: 20%;
+  object-fit: cover;
+  border: solid #ffffff;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+#ago {
+  font: 2.5em;
+  padding: 0 0 30px;
+}
+#north {
+  font: 1.1em Arial, sans-serif;
+  color: white;
+  border: 0;
+  border-radius: 15px;
+  background-color: rgb(7, 236, 38);
+  margin: 30px 390px 0 30px;
+  padding: 10px 10px 10px 20px;
+}
+#design {
+  font: 1.1em Arial, sans-serif;
+  color: white;
+  border: 0;
+  border-radius: 15px;
+  background-color: rgb(182, 11, 82);
+  margin: 30px 410px 0 30px;
+  padding: 10px 15px 10px 20px;
+}

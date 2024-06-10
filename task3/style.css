@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: purple;
+}
+main {
+  margin: 350px 0 0 450px;
+}
+.card {
+  display: inline-block;
+  width: 25%;
+  height: 590px;
+  margin: 5px 8px;
+  background-color: white;
+  border-radius: 5px;
+}
+img {
+  width: 35%;
+  margin: 20px 170px;
+  border: 7px solid purple;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 1px 1px 10px #d80b82;
+}
+#person {
+  font-size: 25px;
+  color: purple;
+  margin: 10px 200px;
+}
+.stars {
+  color: purple;
+  margin: 10px 210px;
+}
+#lrm {
+  font-size: 22px;
+  text-align: justify;
+  padding: 20px 5px 10px 20px;
+  word-spacing: 3px;
+  letter-spacing: 1px;
+}
+.btn1 {
+  margin: 20px 0 0 60px;
+  background-color: #fff;
+  padding: 20px 50px;
+  border: 2px solid purple;
+  border-radius: 5px;
+  font-size: 20px;
+  color: purple;
+}
+.btn2 {
+  margin: 20px 0 0 3px;
+  background-color: purple;
+  padding: 20px 50px;
+  border: 2px solid purple;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #fff;
+}

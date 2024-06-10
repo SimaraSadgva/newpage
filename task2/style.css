@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: white;
+  }
+  #boss {
+    margin: 200px 0 300px 280px;
+  }
+  #container {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: justify;
+    background-color: #fff;
+    width: 505px;
+    height: 850px;
+    border: 3px solid silver;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  header {
+    border: 2px;
+    border-radius: 5px;
+    background-size: 200px;
+  }
+  img {
+    width: 502px;
+    height: 450px;
+  }
+  #lrm1 {
+    font: 2em/1.5 Arial, sans-serif;
+    color: black;
+    padding: 40px 10px 10px 20px;
+    word-spacing: 5px;
+  }
+  #lrm2 {
+    font: 2em/1.5 Arial, sans-serif;
+    color: black;
+    padding: 2px 0 20px 20px;
+  }
+  #btn1 {
+    font-size: 30px;
+    width: 30px;
+    height: 40px;
+    margin: 0 10px 0 20px;
+    border-color: rgb(250, 239, 239);
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  #btn2 {
+    font-size: 30px;
+    width: 30px;
+    height: 40px;
+    border-color: rgb(250, 239, 239);
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  main input {
+    font-size: 25px;
+    width: 25px;
+    height: 40px;
+    border: 0;
+  }
+  #btn3 {
+    font: bold 1.5em Arial, sans-serif;
+    color: #fff;
+    width: 150px;
+    height: 65px;
+    margin: 40px 0 30px 20px;
+    border-radius: 10px;
+    background-color: rgb(252, 127, 24);
+    border: 0;
+    cursor: pointer;
+  }
